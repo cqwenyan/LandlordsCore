@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2944536973
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d332d1556a7db60a37c62369761c841e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 73cc42907d7d0706887647200bfdd5da
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/UI/Atlas.prefab
+Dependencies:
+- D:/GitHub/LandlordsCore/Unity/../Release/PC/StreamingAssets/uishare.unity3d

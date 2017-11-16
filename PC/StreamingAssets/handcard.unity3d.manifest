@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4175433781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65b09ad5bc6e3ed8a8cb246d61287524
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e41325a3855df5bb4595696a7e94de52
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f961d9be2512b484b9dd95eff5f38d02, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/UI/HandCard.prefab
+Dependencies:
+- D:/GitHub/LandlordsCore/Unity/../Release/PC/StreamingAssets/uishare.unity3d

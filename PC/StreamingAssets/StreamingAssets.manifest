@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3568303737
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: hotfixcode
+      Dependencies: {}
+    Info_1:
+      Name: atlas.unity3d
+      Dependencies:
+        Dependency_0: uishare.unity3d
+    Info_2:
+      Name: content.unity3d
+      Dependencies:
+        Dependency_0: uishare.unity3d
+    Info_3:
+      Name: uishare.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: endpanel.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: handcard.unity3d
+      Dependencies:
+        Dependency_0: uishare.unity3d
+    Info_6:
+      Name: interactionpanel.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: playcard.unity3d
+      Dependencies:
+        Dependency_0: uishare.unity3d
+    Info_8:
+      Name: uilobby.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: uilogin.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: uiroom.unity3d
+      Dependencies:
+        Dependency_0: uishare.unity3d
