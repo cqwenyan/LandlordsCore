@@ -55,7 +55,7 @@ namespace Hotfix
             try
             {
                 //创建登录服务器连接
-                session = Hotfix.Scene.ModelScene.GetComponent<NetOuterComponent>().Create("113.104.219.131:10004");
+                session = Hotfix.Scene.ModelScene.GetComponent<NetOuterComponent>().Create("127.0.0.1:10004");
 
                 //发送登录请求
                 prompt.text = "正在登录中....";

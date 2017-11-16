@@ -45,7 +45,7 @@ namespace Hotfix
                 Game.Scene.GetComponent<PlayerLoginManagerComponent>().Add(account.Id, gateConfig.AppId);
 
                 response.Key = getLoginKeyRE.Key;
-                response.Address = $"113.104.219.131:{gateConfig.GetComponent<OuterConfig>().Port}";
+                response.Address = gateConfig.GetComponent<OuterConfig>().Address;
                 reply(response);
             }
             catch (Exception e)
