@@ -1,7 +1,7 @@
-﻿using UnityEngine;
-using UnityEngine.UI;
+﻿using UnityEngine.UI;
 using Model;
 using System;
+using UnityEngine;// wy加的，不知道是否引起错误
 
 namespace Hotfix
 {
